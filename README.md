@@ -22,4 +22,4 @@ username password file formats needs to be as follows
 
 
 PS. 
-Don't use this for illegal stuff happy hacking c:
+Don't use this for illegal stuff. Happy hacking c:
