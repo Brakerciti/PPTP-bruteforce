@@ -5,7 +5,7 @@ Simple tool for bruteforcing pptp protocol written in bash
 
 1)Requirments pptp client has to be installed on the system
 
-sudo apt-get update
+sudo apt-get update;
 sudo apt-get install pptp -y
 
 2)You just need to supply a username file a password file and a target IP
